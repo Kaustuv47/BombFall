@@ -1,0 +1,2 @@
+# BombFall
+It is an 2D Game where rockets in green and black fall on earth. Your target is to click all the black one before it fall on ground. As time passes speed of game play increase and thus creating a challenge for record. This app is written in Processing app and need to download it to make the program run. It program uses simple Basic Java implementation with four processing based function. 
